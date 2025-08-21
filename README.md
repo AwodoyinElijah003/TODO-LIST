@@ -19,20 +19,13 @@ A modern and intuitive To-Do list application built with **KOTLIN** for Android.
 - **Coroutines & Flow**: For asynchronous operations and reactive data streams.
 - **Material 3**: The latest version of Material Design for a beautiful and consistent look and feel.
 
-## 📸 Screenshots
-
-_You can add screenshots of your app here to showcase its design and functionality._
-_Example:_
-![Boards Screen](https://raw.githubusercontent.com/your-username/your-repo-name/main/screenshots/boards.png)
-![Task Detail Screen](https://raw.githubusercontent.com/your-username/your-repo-name/main/screenshots/tasks.png)
-
 ## 🤝 How to Contribute
 
 Contributions are always welcome! If you find a bug or have a feature request, please open an issue.
 
 To get started, follow these steps:
 1.  Fork the repository.
-2.  Clone your forked repository: `git clone https://github.com/your-username/TODO-LIST.git`
+2.  Clone your forked repository: `git clone https://github.com/AwodoyinElijah003/TODO-LIST.git`
 3.  Open the project in Android Studio.
 4.  Make your changes and commit them with a descriptive message.
 5.  Push your changes to your fork and open a pull request.
@@ -43,4 +36,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-_Project created by [Your Name](https://github.com/your-username)_
+_Project created by [Awodoyin ELijah](https://github.com/AwodoyinElijah003)_
